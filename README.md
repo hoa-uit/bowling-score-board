@@ -2,6 +2,15 @@
 
 This is the frontend for the Bowling Score Tracker application. It is built using React and TypeScript.
 
+Home page
+![homepage](./public/assets/homePage.png)
+
+Start game:
+![startGame](./public/assets/startGame.png)
+
+End game:
+![endGame](./public/assets/endGame.png)
+
 ## Agenda
 
 - [Prerequisites](#prerequisites)
