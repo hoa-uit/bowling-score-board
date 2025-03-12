@@ -1,0 +1,58 @@
+/* /* src/App.css */
+
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.pin-buttons {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.buttons button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.add-game {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.score-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.frames {
+  display: flex;
+  gap: 10px;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.frame-number {
+  font-weight: bold;
+}
+
+.frame-score,
+.cumulative-score {
+  margin-top: 5px;
+}
+
